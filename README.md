@@ -12,6 +12,9 @@ JDBC, Postgres, Tomcat, Java14, AJAX, JSON, HTML, Servlets.
 Superjob. Стек: JDBC, Postgres, Tomcat, Java14, AJAX, JSON, JSTL. 
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey710&layout=compact)](https://github.com/Alexey710/github-readme-stats)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Alexey710&hide=stars,prs,issues,contribs)
+
 
 <!--
 **Alexey710/Alexey710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
