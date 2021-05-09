@@ -3,17 +3,17 @@
 ##### Ниже перечень моих проектов. Подробное описание и скриншоты каждого проекта в README.
 
 ### Проекты с UI:
-1. Проект [Чат](https://github.com/Alexey710/job4j_chat) – это мессенджер. Можно обмениваться сообщениями в
+1. [Чат](https://github.com/Alexey710/job4j_chat) – это мессенджер. Можно обмениваться сообщениями в
 индивидуальных и групповых чатах. 
 Стек: Hibernate, Postgres, Spring Boot 2, Spring Security, SpringData, Java14, JSP, JSTL.
-2. Проект [AUTO MARKET](https://github.com/Alexey710/job4j_cars) – это сайт для размещения объявлений о продаже автомобилей подобный авто.ру или авито. Приложение сделано на Servlets. 
+2. [AUTO MARKET](https://github.com/Alexey710/job4j_cars) – это сайт для размещения объявлений о продаже автомобилей подобный авто.ру или авито. Приложение сделано на Servlets. 
 Стек: Hibernate, Postgres, Tomcat, Java14, AJAX, JSON, JSTL, HTML, JSP.  
-3. Проект [TODO список](https://github.com/Alexey710/job4j_todo) - это органайзер для добавления/удаления и отслеживания
+3. [TODO список](https://github.com/Alexey710/job4j_todo) - это органайзер для добавления/удаления и отслеживания
 текущих дел и задач. 
 Стек: Hibernate, Postgres, Tomcat, Java14, AJAX, JSON, JSTL, HTML, JSP, Servlets.
-4. Проект [Кинотеатр](https://github.com/Alexey710/job4j_cinema) - это сервис для бронирования билетов в кинотеатре. 
+4. [Кинотеатр](https://github.com/Alexey710/job4j_cinema) - это сервис для бронирования билетов в кинотеатре. 
 Стек: JDBC, Postgres, Tomcat, Java14, AJAX, JSON, HTML, Servlets.
-5. Проект [Работа мечты](https://github.com/Alexey710/job4j_dreamjob) - это сайт для размещения вакансий подобный hh.ru или
+5. [Работа мечты](https://github.com/Alexey710/job4j_dreamjob) - это сайт для размещения вакансий подобный hh.ru или
 Superjob. 
 Стек: JDBC, Postgres, Tomcat, Java14, AJAX, JSON, JSTL. 
 
