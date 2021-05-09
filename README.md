@@ -1,7 +1,8 @@
 ### Hi there 👋
-Меня зовут Алексей. Я изучаю и пишу на языке Java с 2019 года. С 2020 года занимаюсь на курсах Java [job4j](https://job4j.ru/courses/java_courses.html) 
+Меня зовут Алексей. Я изучаю и пишу на языке Java с 2019 года. С 2020 года занимаюсь на курсах Java [job4j](https://job4j.ru/courses/java_courses.html).
+Ниже перечень моих проектов. Подробное описание каждого проета в README.
 
-Мои проекты:
+Проекты с UI:
 1. Проект [Чат](https://github.com/Alexey710/job4j_chat) – это мессенджер. Можно обмениваться сообщениями в
 индивидуальных и групповых чатах. 
 Стек: Hibernate, Postgres, Spring Boot 2, Spring Security, SpringData, Java14, JSP, JSTL.
@@ -15,6 +16,9 @@
 5. Проект [Работа мечты](https://github.com/Alexey710/job4j_dreamjob) - это сайт для размещения вакансий подобный hh.ru или
 Superjob. 
 Стек: JDBC, Postgres, Tomcat, Java14, AJAX, JSON, JSTL. 
+
+Проекты без UI:
+1.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey710&layout=compact)](https://github.com/Alexey710/github-readme-stats)
