@@ -24,7 +24,7 @@ Superjob.
 4. [Pooh JMS](https://github.com/Alexey710/job4j_pooh) - разработка с нуля сервиса типа RabbitMQ. Аналог асинхронной очереди. Приложение запускает Socket, и ждет клиентов.
 Клиенты могут быть двух типов: отправители (publisher), получатели (subscriber). Для хранения данных используются многопоточные коллекции. 
 5. [Агрегатор вакансий](https://github.com/Alexey710/job4j_grabber) - консольное приложение парсит вакансии на сайте sql.ru 
-Приложение запускается по расписанию. Период запуска указывается в настройках - app.properties. Программа  считывать все вакансии относящие к Java и записывает их в базу.
+Приложение запускается по расписанию. Период запуска указывается в настройках - app.properties. Программа  считывать все вакансии относящие к Java и записывает их в базу. СУБД PostgresSQL.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey710&layout=compact)](https://github.com/Alexey710/github-readme-stats)
