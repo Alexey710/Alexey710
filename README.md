@@ -21,7 +21,8 @@ Superjob.
 1. [Weather](https://github.com/Alexey710/job4j_weather)  - учебный проект с использование Spring Web Flux
 2. [Tracker](https://github.com/Alexey710/job4j_tracker) - учебный проект. Работа c БД через Hibernate, JDBC. Консольное приложение, поддерживающее CRUD операции с БД.
 3. [Автонарушители](https://github.com/Alexey710/job4j_car_accident) - учебный пороект. Spring Security, хранение пользователелей в памяти и вариант хранения в БД.  
-4. [Pooh JMS](https://github.com/Alexey710/job4j_pooh) - разработка с нуля сервиса типа RabbitMQ. Клиент может подписываться на темы и будет получать сообщения по этой теме.                                                                                             
+4. [Pooh JMS](https://github.com/Alexey710/job4j_pooh) - разработка с нуля сервиса типа RabbitMQ. Аналог асинхронной очереди. Приложение запускает Socket, и ждет клиентов.
+Клиенты могут быть двух типов: отправители (publisher), получатели (subscriber). Для хранения данных используются многопоточные коллекции.                                                                                             
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alexey710&layout=compact)](https://github.com/Alexey710/github-readme-stats)
