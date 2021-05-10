@@ -20,10 +20,11 @@ Superjob.
 ### Учебные проекты без UI:
 1. [Weather](https://github.com/Alexey710/job4j_weather)  - учебный проект с использование Spring Web Flux. REST API.
 2. [Tracker](https://github.com/Alexey710/job4j_tracker) - учебный проект. Работа c БД через Hibernate, JDBC. Консольное приложение, поддерживающее CRUD операции с БД.
-3. [Автонарушители](https://github.com/Alexey710/job4j_car_accident) - учебный пороект. Spring Security, хранение пользователелей в памяти и вариант хранения в БД.  
-4. [Pooh JMS](https://github.com/Alexey710/job4j_pooh) - разработка с нуля сервиса типа RabbitMQ. Аналог асинхронной очереди. Приложение запускает Socket и ждет клиентов.
+3. [Форум](https://github.com/Alexey710/job4j_forum) - приложение развернуто на Heroku https://whispering-temple-47849.herokuapp.com/.  Сделано на Spring Boot и Spring Security.
+4. [Автонарушители](https://github.com/Alexey710/job4j_car_accident) - учебный пороект. Spring Security, хранение пользователелей в памяти и вариант хранения в БД.  
+5. [Pooh JMS](https://github.com/Alexey710/job4j_pooh) - разработка с нуля сервиса типа RabbitMQ. Аналог асинхронной очереди. Приложение запускает Socket и ждет клиентов.
 Клиенты могут быть двух типов: отправители (publisher), получатели (subscriber). Для хранения данных используются многопоточные коллекции. 
-5. [Агрегатор вакансий](https://github.com/Alexey710/job4j_grabber) - консольное приложение парсит вакансии на сайте sql.ru 
+6. [Агрегатор вакансий](https://github.com/Alexey710/job4j_grabber) - консольное приложение парсит вакансии на сайте sql.ru 
 Приложение запускается по расписанию. Период запуска указывается в настройках - app.properties. Программа  считывать все вакансии относящие к Java и записывает их в базу. СУБД PostgresSQL.
 
 
